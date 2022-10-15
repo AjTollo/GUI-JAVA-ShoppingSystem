@@ -1,2 +1,2 @@
 # GUI-JAVA-ShoppingSystem
-Created by practice purposes, unfinished
+Created for practice purposes, unfinished
